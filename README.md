@@ -114,19 +114,15 @@ The scatter plot shows account profitability segmentation based on GP% (Gross Pr
 
 
 
-#### **Strategic Recommendations:**
+**Strategic Recommendations:**
 
-**Focus on High Performers:**
-- Continue supporting and investing in companies like Labadie Group and Feeney LLC to maximize profitability and revenue.
+- **Focus on High Performers:** Continue supporting and investing in companies like Labadie Group and Feeney LLC to maximize profitability and revenue.
 
-**Improve Low GP% Performers:**
-- Investigate and address reasons for low GP% in companies like Hickle Group to enhance their profitability.
+- **Improve Low GP% Performers:** Investigate and address reasons for low GP% in companies like Hickle Group to enhance their profitability.
 
-**Enhance Mid-tier Companies:**
-- Identify potential for growth in mid-tier companies and implement strategies to improve their GP% and Value YTD.
+- **Enhance Mid-tier Companies:** Identify potential for growth in mid-tier companies and implement strategies to improve their GP% and Value YTD.
 
-**Leverage Outliers:**
-- Analyse what makes outliers like Labadie Group successful and apply these strategies to other accounts.
+- **Leverage Outliers:** Analyse what makes outliers like Labadie Group successful and apply these strategies to other accounts.
 
 By understanding these insights, strategies can be developed to enhance overall profitability and revenue growth.
 
