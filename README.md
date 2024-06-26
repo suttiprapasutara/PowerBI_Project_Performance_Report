@@ -5,16 +5,16 @@ The 'Plant Co. Visualisation Performance Report' PowerBI dashboard compares key 
 
 
 ## Gross Profit Analysis Report for 2023
-### Overview
+## Overview
 - YTD Gross Profit: $5.15M
 - PYTD Gross Profit: $5.42M
 - YTD vs PYTD: -$265.29K
 - GP%: 39.62%
 The gross profit for the year-to-date (YTD) is $5.15M, which is a decline of $265.29K compared to the previous year-to-date (PYTD) figure of $5.42M. The gross profit percentage (GP%) stands at 39.62%.
 
-### Detailed Insights
+## Detailed Insights
 
-**Gross Profit Bottom 10 Countries YTD vs PYTD**
+### **Gross Profit Bottom 10 Countries YTD vs PYTD**
 - China: -$405K
 - Sweden: -$63.43K
 - United States: -$57.38K
@@ -31,7 +31,8 @@ The most significant decline in gross profit comes from China, with a decrease o
 <img width="953" alt="bottom 10 countries" src="https://github.com/suttiprapasutara/PowerBI_Project_Performance_Report/assets/173167594/b6c90cce-aa65-47d3-a4c4-8905adee7c37">
 
 
-**Gross Profit YTD vs PYTD by Month**
+
+### **Gross Profit YTD vs PYTD by Month**
 - The total YTD gross profit across all months is negative $265K.
 - Notable positive months include March (+ $44K), April (+ $69K), June (+ $89K), and August (+ $3K).
 - The most challenging months are October (- $148K), July (- $87K), and February (- $101K).
@@ -39,7 +40,8 @@ The most significant decline in gross profit comes from China, with a decrease o
 <img width="965" alt="By month" src="https://github.com/suttiprapasutara/PowerBI_Project_Performance_Report/assets/173167594/45f5a555-ad6e-4630-b5a8-9a0fa6e3199c">
 
 
-**Gross Profit YTD vs PYTD by Country**
+
+### **Gross Profit YTD vs PYTD by Country**
 - The total YTD gross profit by country sums up to negative $265.29K.
 - Positive contributions come from countries like Portugal (+ $104K), Germany (+ $53K), and Canada (+ $56K).
 - Significant deficits are observed in China (- $405K), Sweden (- $63K), and the United States (- $57K).
@@ -47,7 +49,7 @@ The most significant decline in gross profit comes from China, with a decrease o
 <img width="1105" alt="By countries" src="https://github.com/suttiprapasutara/PowerBI_Project_Performance_Report/assets/173167594/d31416ad-329a-459a-a242-996033832e7d">
 
 
-**Gross Profit YTD vs PYTD by Product Type**
+### **Gross Profit YTD vs PYTD by Product Type**
 - YTD gross profit by product type shows a deficit of negative $265K.
 - Indoor products contribute the most to this deficit (- $237K), followed by Landscape products (- $106K).
 - Outdoor products show a positive contribution (+ $77K).
@@ -58,7 +60,7 @@ The most significant decline in gross profit comes from China, with a decrease o
 These insights indicate a varied performance across different months, countries, and product types. The challenges in profitability are particularly pronounced in certain months and regions, while there are clear strengths in others. Understanding the underlying reasons behind these fluctuations can help in making informed decisions to optimize profitability moving forward.
 
 
-**Gross Profit YTD & PYTD by Month and Product Type**
+### **Gross Profit YTD & PYTD by Month and Product Type**
 **1. Month-by-Month Analysis**:
 - January to June generally show a YTD trend lower than the PYTD, indicating a decrease in gross profit compared to the previous year.
 - Notable recovery months include July (+ $354.37k YTD vs. + $441.42k PYTD), August (+ $416.63k YTD vs. + $413.41k PYTD), and September (+ $398.78k YTD vs. + $417.8k PYTD).
@@ -81,7 +83,7 @@ Understanding these trends can help in pinpointing areas for improvement or adju
 
 
 
-**Insights from the Account Profitability Segmentation**
+### **Insights from the Account Profitability Segmentation**
 
 The scatter plot shows account profitability segmentation based on GP% (Gross Profit Percentage) and Gross Profit (Value YTD) for different companies. Here are some insights:
 **1.	High Performers:**
