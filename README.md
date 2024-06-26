@@ -97,7 +97,7 @@ The scatter plot shows account profitability segmentation based on GP% (Gross Pr
 - Companies like **Brown** and **Sons**, **Ziemann-Hodkiewicz**, and **Gislason-Pacocha** have balanced GP% (around 50-55%) and moderately high Value YTD (~$30K-$40K).
 
 **3.	Low GP% but High Value YTD:**
-- **Hickle Group** has a relatively low GP% (~30%) but maintains a significant Value YTD (~$40K).
+- **Hickle Group** has a relatively low GP% (~ 30%) but maintains a significant Value YTD (~$40k).
 
 **4.	Underperformers:**
 - Companies like **Buckridge Group**, **Considine-Purdy**, and **Abernathy Inc** have low GP% (20-25%) and low Value YTD (<$10K).
