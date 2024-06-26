@@ -28,4 +28,9 @@ The gross profit for the year-to-date (YTD) is $5.15M, which is a decline of $26
 
 The most significant decline in gross profit comes from China, with a decrease of $405K. Other notable declines are seen in Sweden, the United States, and Norway, each contributing to the overall drop in profitability.
 
+<img width="953" alt="bottom 10 countries" src="https://github.com/suttiprapasutara/PowerBI_Project_Performance_Report/assets/173167594/b6c90cce-aa65-47d3-a4c4-8905adee7c37">
+
+
+
+
 
