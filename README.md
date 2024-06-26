@@ -25,6 +25,7 @@ The gross profit for the year-to-date (YTD) is $5.15M, which is a decline of $26
 - Thailand: -$40.81K
 - Vietnam: -$23.86K
 - Pakistan: -$21.28K
+
 The most significant decline in gross profit comes from China, with a decrease of $405K. Other notable declines are seen in Sweden, the United States, and Norway, each contributing to the overall drop in profitability.
 
 
