@@ -32,6 +32,8 @@ The most significant decline in gross profit comes from China, with a decrease o
 
 
 
+
+
 ### **Gross Profit YTD vs PYTD by Month**
 - The total YTD gross profit across all months is negative $265K.
 - Notable positive months include March (+ $44K), April (+ $69K), June (+ $89K), and August (+ $3K).
