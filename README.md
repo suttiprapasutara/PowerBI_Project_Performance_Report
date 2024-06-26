@@ -5,14 +5,14 @@ The 'Plant Co. Visualisation Performance Report' PowerBI dashboard compares key 
 
 
 ## Gross Profit Analysis Report for 2023
-**Overview**
+### Overview
 - YTD Gross Profit: $5.15M
 - PYTD Gross Profit: $5.42M
 - YTD vs PYTD: -$265.29K
 - GP%: 39.62%
 The gross profit for the year-to-date (YTD) is $5.15M, which is a decline of $265.29K compared to the previous year-to-date (PYTD) figure of $5.42M. The gross profit percentage (GP%) stands at 39.62%.
 
-## Detailed Insights
+### Detailed Insights
 
 **Gross Profit Bottom 10 YTD vs PYTD by Country**
 - China: -$405K
